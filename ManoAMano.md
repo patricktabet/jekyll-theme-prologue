@@ -11,57 +11,46 @@ order: 3
 
 
 
-Mano a Mano is a free same-device 1v1 mobile game.
+<p><center>Mano a Mano is a free same-device 1v1 mobile game.</center> </p>
 
-Challenge a friend to one of 6 mini-games 
+
+<p><center> Challenge a friend to one of 6 mini-games </center> </p>
 
 
   <div class="row">
     <div class="4u 12u$(mobile)">
       <div class="item">
-        <a href="#" class="image fit"><img src="{{ 'assets/images/pic02.jpg' | relative_url }}" alt="Ipsum Feugiat" /></a>
+        < class="image fit"><img src="{{ 'assets/images/pic02.jpg' | relative_url }}" alt="Propulsion Shooting" /></a>
         <header>
-          <h3>Ipsum Feugiat</h3>
+          <h3>Propulsion Shooting</h3>
         </header>
       </div>
       <div class="item">
-        <a href="#" class="image fit"><img src="{{ 'assets/images/pic03.jpg' | relative_url }}" alt="Rhoncus Semper" /></a>
+        <a class="image fit"><img src="{{ 'assets/images/pic03.jpg' | relative_url }}" alt="Shrinking Island" /></a>
         <header>
-          <h3>Rhoncus Semper</h3>
-        </header>
-      </div>
-    </div>
-    <div class="4u 12u$(mobile)">
-      <div class="item">
-        <a href="#" class="image fit"><img src="{{ 'assets/images/pic04.jpg' | relative_url }}" alt="Magna Nullam" /></a>
-        <header>
-          <h3>Magna Nullam</h3>
-        </header>
-      </div>
-      <div class="item">
-        <a href="#" class="image fit"><img src="{{ 'assets/images/pic05.jpg' | relative_url }}" alt="Natoque Vitae" /></a>
-        <header>
-          <h3>Natoque Vitae</h3>
+          <h3>Shrinking Island</h3>
         </header>
       </div>
     </div>
     <div class="4u 12u$(mobile)">
       <div class="item">
-        <a href="#" class="image fit"><img src="{{ 'assets/images/pic06.jpg' | relative_url }}" alt="Dolor Penatibus" /></a>
-        <header>
-          <h3>Dolor Penatibus</h3>
-        </header>
+        <a href="#" class="image fit"><img src="{{ 'assets/images/pic04.jpg' | relative_url }}" alt="Volleyball" /></a>
       </div>
       <div class="item">
-        <a href="#" class="image fit"><img src="{{ 'assets/images/pic07.jpg' | relative_url }}" alt="Orci Convallis" /></a>
-        <header>
-          <h3>Orci Convallis</h3>
-        </header>
+        <a href="#" class="image fit"><img src="{{ 'assets/images/pic05.jpg' | relative_url }}" alt="Survival Pit" /></a>
+      </div>
+    </div>
+    <div class="4u 12u$(mobile)">
+      <div class="item">
+        <a href="#" class="image fit"><img src="{{ 'assets/images/pic06.jpg' | relative_url }}" alt="Footy" /></a>
+      </div>
+      <div class="item">
+        <a href="#" class="image fit"><img src="{{ 'assets/images/pic07.jpg' | relative_url }}" alt="Gravity Fighter" /></a>
       </div>
     </div>
   </div>
 
-and unluck characters to compete with.
+<p>Unluck characters to compete with</p>
 
 <a href="#" class="image featured"><img src="assets/images/pic08.jpg" alt="" /></a>
 
