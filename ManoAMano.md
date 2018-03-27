@@ -6,19 +6,66 @@ icon: fa-mobile
 order: 3
 ---
 
-<div class="container">
-  <img src="assets/images/pic08.jpg" alt="Mano a Mano Header" style="width:100%;">
-  <div class="centered">Mano a Mano</div>
-</div>
+<a href="#" class="image featured"><img src="assets/images/pic08.jpg" alt="" /></a>
 
 
 
 
 Mano a Mano is a free same-device 1v1 mobile game.
 
-Challenge a friend to one of 6 mini-games and unluck characters to compete with.
+Challenge a friend to one of 6 mini-games 
 
 
+  <div class="row">
+    <div class="4u 12u$(mobile)">
+      <div class="item">
+        <a href="#" class="image fit"><img src="{{ 'assets/images/pic02.jpg' | relative_url }}" alt="Ipsum Feugiat" /></a>
+        <header>
+          <h3>Ipsum Feugiat</h3>
+        </header>
+      </div>
+      <div class="item">
+        <a href="#" class="image fit"><img src="{{ 'assets/images/pic03.jpg' | relative_url }}" alt="Rhoncus Semper" /></a>
+        <header>
+          <h3>Rhoncus Semper</h3>
+        </header>
+      </div>
+    </div>
+    <div class="4u 12u$(mobile)">
+      <div class="item">
+        <a href="#" class="image fit"><img src="{{ 'assets/images/pic04.jpg' | relative_url }}" alt="Magna Nullam" /></a>
+        <header>
+          <h3>Magna Nullam</h3>
+        </header>
+      </div>
+      <div class="item">
+        <a href="#" class="image fit"><img src="{{ 'assets/images/pic05.jpg' | relative_url }}" alt="Natoque Vitae" /></a>
+        <header>
+          <h3>Natoque Vitae</h3>
+        </header>
+      </div>
+    </div>
+    <div class="4u 12u$(mobile)">
+      <div class="item">
+        <a href="#" class="image fit"><img src="{{ 'assets/images/pic06.jpg' | relative_url }}" alt="Dolor Penatibus" /></a>
+        <header>
+          <h3>Dolor Penatibus</h3>
+        </header>
+      </div>
+      <div class="item">
+        <a href="#" class="image fit"><img src="{{ 'assets/images/pic07.jpg' | relative_url }}" alt="Orci Convallis" /></a>
+        <header>
+          <h3>Orci Convallis</h3>
+        </header>
+      </div>
+    </div>
+  </div>
+
+and unluck characters to compete with.
+
+<a href="#" class="image featured"><img src="assets/images/pic08.jpg" alt="" /></a>
+
+You can find Mano A Mano in the GooglePlay store and unluck for free
 
 
 
