@@ -2,7 +2,7 @@
 title: Mano a Mano
 subtitle:
 layout: "page"
-icon: fa-bug
+icon: fa-mobile
 order: 3
 ---
 
