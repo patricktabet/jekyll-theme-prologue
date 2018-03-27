@@ -6,7 +6,7 @@ icon: fa-mobile
 order: 3
 ---
 
-<a href="#" class="image featured"><img src="assets/images/pic08.jpg" alt="" /></a>
+<a class="image featured"><img src="assets/images/MaMHeader.png" alt="" /></a>
 
 
 
