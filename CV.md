@@ -2,7 +2,7 @@
 title: My CV
 subtitle: A diversified mess
 layout: "page"
-icon: fa-bookmark
+icon: fa-graduation-cap
 order: 3
 ---
 
