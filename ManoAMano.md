@@ -54,7 +54,11 @@ order: 3
 
 <a href="#" class="image featured"><img src="assets/images/pic08.jpg" alt="" /></a>
 
-You can find Mano A Mano in the GooglePlay store and unluck for free
+You can find Mano A Mano in the GooglePlay store and download it for free for free
+
+<a href="#" class="image featured"><img src="assets/images/getOnPlay.png" alt="Get it on the play store" /></a>
+
+
 
 
 
