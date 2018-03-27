@@ -45,8 +45,24 @@ order: 3
   </div>
 
 <center><p>Unlock characters to compete with</p></center>
-
-<a class="image featured"><img src="assets/images/pic08.jpg" alt="" /></a>
+<div class="row">
+    <div class="6u 12u$(mobile)">
+      <div class="item">
+        <a class="image fit"><img src="{{ 'assets/images/pic02.jpg' | relative_url }}" alt="Propulsion Shooting" /></a>
+      </div>
+      <div class="item">
+        <a class="image fit"><img src="{{ 'assets/images/pic03.jpg' | relative_url }}" alt="Shrinking Island" /></a>
+      </div>
+    </div>
+    <div class="6u 12u$(mobile)">
+      <div class="item">
+        <a  class="image fit"><img src="{{ 'assets/images/pic04.jpg' | relative_url }}" alt="Volleyball" /></a>
+      </div>
+      <div class="item">
+        <a class="image fit"><img src="{{ 'assets/images/pic05.jpg' | relative_url }}" alt="Survival Pit" /></a>
+      </div>
+    </div>
+  </div>
 
 You can find Mano A Mano in the GooglePlay store and download it for free for free
 
