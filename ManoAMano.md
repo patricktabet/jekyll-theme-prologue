@@ -66,7 +66,7 @@ order: 3
 
 You can find Mano A Mano in the GooglePlay store and download it for free for free
 
-<center><a href="https://play.google.com/store?hl=en" class="image featured"><img src="assets/images/getOnPlay.png" alt="Get it on the play store" style="width:15%;" /></a></center>
+<center><a href="https://play.google.com/store?hl=en" class="image featured"><img src="assets/images/getOnPlay.png" alt="Get it on the play store" style="width:20%;" /></a></center>
 
 
 
