@@ -69,7 +69,9 @@ order: 3
 
 <center><a href="https://play.google.com/store?hl=en" class="image featured"><img src="assets/images/getOnPlay.png" alt="Get it on the play store" style="width:20%;" /></a></center>
 
-<center><p>Discuss this game on our Reddit Page <a href="https://www.reddit.com/r/ManoAMano/" class="image featured"><img src="assets/images/RedditLink.jpg" alt="Reddit link" style="width:15%;" /></a></p></center>
+<center><p>Discuss this game on our Reddit Page <a href="http://patricktabet.github.io/privacy.html" class="image featured"><img src="assets/images/RedditLink.jpg" alt="Reddit link" style="width:15%;" /></a></p></center>
+
+
 
 
 
