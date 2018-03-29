@@ -68,6 +68,8 @@ You can find Mano A Mano in the GooglePlay store and download it for free for fr
 
 <center><a href="https://play.google.com/store?hl=en" class="image featured"><img src="assets/images/getOnPlay.png" alt="Get it on the play store" style="width:20%;" /></a></center>
 
+<p>Discuss this game on our Reddit Page <a href="https://www.reddit.com/r/ManoAMano/" class="image featured"><img src="assets/images/RedditLink.jpg" alt="Reddit link" style="width:20%;" /></a></p>
+
 
 
 
