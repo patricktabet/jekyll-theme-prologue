@@ -7,7 +7,7 @@ order: 3
 ---
 
 
-<h2>Dr. PATRICK PAUL TABET </h2>
+<h2>Dr. PATRICK PAUL TABET MBBS. BSc. PgCert.(Surg) CILT.</h2>
 
 
 <p><sub><b>Languages: </b> Proficient: English, French.  Conversational: Arabic.  Minimal: Spanish, Italian.</sub></p>
