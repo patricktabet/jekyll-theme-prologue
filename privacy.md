@@ -32,13 +32,13 @@ This Application does not collect precise information about the location of your
 Yes. We will share your information with third parties only in the ways that are described in this privacy statement.
 
 We may disclose User Provided and Automatically Collected Information:
+<ul>
+				<li>as required by law, such as to comply with a subpoena, or similar legal process; when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;</li>
+				<li>with our trusted services providers who work on our behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.</li>
+				<li>to advertisers and third party advertising networks and analytics companies as described in the section below</li>
+			</ul>
 
-as required by law, such as to comply with a subpoena, or similar legal process; when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
 
-with our trusted services providers who work on our behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
-
-to advertisers and third party advertising networks and analytics companies as described in the section below
- 
 
 <h4>Automatic Data Collection and Advertising</h4>
 
