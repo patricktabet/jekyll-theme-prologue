@@ -56,7 +56,7 @@ We will retain User Provided data for as long as you use the Application and for
 
  
 
-<h3>Children<h3>
+<h3>Children</h3>
 
 We do not use the Application to knowingly solicit data from or market to children under the age of 13.
 
