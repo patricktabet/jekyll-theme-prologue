@@ -112,4 +112,4 @@ order: 3
         <li>  <b>Sports:  </b>Scuba-diving and Rock-climbing holder of international certification.</li>
           </ul>
           
-<p> <sub>References and evidence available upon request. This mini-CV is invomplete and might be out of date.</sub></p>
+<p> <sub>References and evidence available upon request. This mini-CV is incomplete and might be out of date.</sub></p>
