@@ -34,25 +34,28 @@ order: 3
 
 <h3>Education:</h3>
 
-<h4>Masters in Surgical Sciences, University of Edinburgh – Edinburgh, UK. 2016 – Present </h4>
+<p><h4>Masters in Surgical Sciences, University of Edinburgh – Edinburgh, UK. 2016 – Present </h4>
 
 <ul>
 	<li><b>Distinctions awarded in year 1.</b></li>
         <li>Estimated graduation 2020.</li>
           </ul>
+</p>
 
+<p><h4>Certificate In Learning and Teaching (CILT), Queen Mary’s University of London – London, UK. 2017 - 2018 </h4>
+</p>
 
-<h4>Certificate In Learning and Teaching (CILT), Queen Mary’s University of London – London, UK. 2017 - 2018 </h4>
-
-<h4>Bachelor of Medicine, Bachelor of Surgery (MBBS). St George’s University of London, Nicosia programme – London, UK. 2012 – 2016</h4>
+<p><h4>Bachelor of Medicine, Bachelor of Surgery (MBBS). St George’s University of London, Nicosia programme – London, UK. 2012 – 2016</h4>
 	
 <ul>
 	<li><b>President and founder of the Surgical Society.</b></li>
         <li><b>Student representative in final year.</b></li>
           </ul>
 
-<h4>Bachelor of Sciences in Nutrition – Premedical Sciences. University Of Balamand, Faculty of Health Sciences – Beirut, Lebanon.				2009 – 2012</h4>
+</p>
 
+<p><h4>Bachelor of Sciences in Nutrition – Premedical Sciences. University Of Balamand, Faculty of Health Sciences – Beirut, Lebanon.				2009 – 2012</h4>
+</p>
 
 <h3>Medical Courses and Qualifications:</h3>
 
