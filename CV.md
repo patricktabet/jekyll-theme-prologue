@@ -10,7 +10,7 @@ order: 3
 <h2>Dr. PATRICK PAUL TABET </h2>
 
 
-<p><sub><b>Languages: </b>    	Proficient: English, French.    Conversational: Arabic.    Minimal: Spanish, Italian.</sub></p>
+<p><sub><b>Languages: </b> Proficient: English, French.  Conversational: Arabic.  Minimal: Spanish, Italian.</sub></p>
 
 <h3>Medical Employment:</h3>
 
