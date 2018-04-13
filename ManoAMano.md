@@ -6,7 +6,7 @@ icon: fa-mobile
 order: 3
 ---
 
-<a class="image featured"><img src="assets/images/MaMHeader.png" alt="" /></a>
+<a class="image featured"><img src="assets/images/MaM%20banner2.jpg" alt="" /></a>
 
 
 
@@ -20,26 +20,26 @@ order: 3
   <div class="row">
     <div class="4u 12u$(mobile)">
       <div class="item">
-        <a class="image fit"><img src="{{ 'assets/images/pic02.jpg' | relative_url }}" alt="Propulsion Shooting" /></a>
+        <a class="image fit"><img src="{{ 'assets/images/Screenshot_lv1.png' | relative_url }}" alt="Propulsion Shooting" /></a>
       </div>
       <div class="item">
-        <a class="image fit"><img src="{{ 'assets/images/pic03.jpg' | relative_url }}" alt="Shrinking Island" /></a>
-      </div>
-    </div>
-    <div class="4u 12u$(mobile)">
-      <div class="item">
-        <a  class="image fit"><img src="{{ 'assets/images/pic04.jpg' | relative_url }}" alt="Volleyball" /></a>
-      </div>
-      <div class="item">
-        <a class="image fit"><img src="{{ 'assets/images/pic05.jpg' | relative_url }}" alt="Survival Pit" /></a>
+        <a class="image fit"><img src="{{ 'assets/images/Screenshot_lv4.png' | relative_url }}" alt="Shrinking Island" /></a>
       </div>
     </div>
     <div class="4u 12u$(mobile)">
       <div class="item">
-        <a class="image fit"><img src="{{ 'assets/images/pic06.jpg' | relative_url }}" alt="Footy" /></a>
+        <a  class="image fit"><img src="{{ 'assets/images/Screenshot_lv2.png' | relative_url }}" alt="Volleyball" /></a>
       </div>
       <div class="item">
-        <a class="image fit"><img src="{{ 'assets/images/pic07.jpg' | relative_url }}" alt="Gravity Fighter" /></a>
+        <a class="image fit"><img src="{{ 'assets/images/Screenshot_lv5.png' | relative_url }}" alt="Survival Pit" /></a>
+      </div>
+    </div>
+    <div class="4u 12u$(mobile)">
+      <div class="item">
+        <a class="image fit"><img src="{{ 'assets/images/Screenshot_lv3.png' | relative_url }}" alt="Footy" /></a>
+      </div>
+      <div class="item">
+        <a class="image fit"><img src="{{ 'assets/images/Screenshot_lv6.png' | relative_url }}" alt="Gravity Fighter" /></a>
       </div>
     </div>
   </div>
@@ -72,7 +72,7 @@ order: 3
 <center><p>Discuss this game on our Reddit Page <a href="https://www.reddit.com/r/ManoAMano/" class="image featured"><img src="assets/images/RedditLink.jpg" alt="Reddit link" style="width:15%;" /></a></p></center>
 
 
-<p><a href=http://patricktabet.github.io/privacy.html>Privacy details,</a></p>
+<p><a href=http://patricktabet.github.io/privacy.html>Privacy details</a></p>
 
 
 
