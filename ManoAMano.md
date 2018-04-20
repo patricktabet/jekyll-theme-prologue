@@ -52,6 +52,7 @@ order: 3
 
 <center><p>Discuss this game on our Reddit Page <a href="https://www.reddit.com/r/ManoAMano/" class="image featured"><img src="assets/images/RedditLink.jpg" alt="Reddit link" style="width:15%;" /></a></p></center>
 
+[Privacy](https://patricktabet.github.io/privacy.html)
  <center><p><a href=https://patricktabet.github.io/privacy.html>Our privacy policy here.</a></p></center>
 
 
