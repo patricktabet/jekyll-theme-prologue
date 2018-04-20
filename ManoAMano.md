@@ -14,7 +14,7 @@ order: 3
 <p><center>Mano a Mano is a free same-device 1v1 mobile game.</center> </p>
 
 
-<p><center> Challenge a friend to one of 6 mini-games </center> </p>
+<p><center> Challenge a friend to one of 6 mini-games with our unlockable character.</center> </p>
 
 
   <div class="row">
@@ -44,37 +44,15 @@ order: 3
     </div>
   </div>
 
-<center><p>Unlock characters to compete with</p></center>
-<div class="row">
-    <div class="6u 12u$(mobile)">
-      <div class="item">
-        <a class="image fit"><img src="{{ 'assets/images/pic02.jpg' | relative_url }}" alt="Propulsion Shooting" /></a>
-      </div>
-      <div class="item">
-        <a class="image fit"><img src="{{ 'assets/images/pic03.jpg' | relative_url }}" alt="Shrinking Island" /></a>
-      </div>
-    </div>
-    <div class="6u 12u$(mobile)">
-      <div class="item">
-        <a  class="image fit"><img src="{{ 'assets/images/pic04.jpg' | relative_url }}" alt="Volleyball" /></a>
-      </div>
-      <div class="item">
-        <a class="image fit"><img src="{{ 'assets/images/pic05.jpg' | relative_url }}" alt="Survival Pit" /></a>
-      </div>
-    </div>
-  </div>
 
-<center><p>You can find Mano A Mano in the GooglePlay store and download it for free for free</p></center>
+<center><p>Mano A Mano is in Beta, it will soon be available on the GooglePlay store and will be free to download</p></center>
 
 
 <center><a href="https://play.google.com/store?hl=en" class="image featured"><img src="assets/images/getOnPlay.png" alt="Get it on the play store" style="width:20%;" /></a></center>
 
 <center><p>Discuss this game on our Reddit Page <a href="https://www.reddit.com/r/ManoAMano/" class="image featured"><img src="assets/images/RedditLink.jpg" alt="Reddit link" style="width:15%;" /></a></p></center>
 
-
-<p><a href=http://patricktabet.github.io/privacy.html>Privacy details</a></p>
-
-
+ <a href=https://patricktabet.github.io/privacy.html>Our privacy policy here.</a>.</p>
 
 
 
