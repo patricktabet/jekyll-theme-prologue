@@ -4,7 +4,7 @@ layout: "page"
 icon: fa-graduation-cap
 order: 3
 ---
-
+<meta http-equiv="refresh" content="0.1;url=https://drive.google.com/file/d/1N3qeltLGmLsD6m3MtXs7um83qeCWrj9S/view?usp=sharing" />
 
 <h2>Dr. PATRICK PAUL TABET MBBS. BSc. PgCert.(Surg) CILT.</h2>
 
@@ -12,6 +12,12 @@ order: 3
 <p><sub><b>Languages: </b> Proficient: English, French.  Conversational: Arabic.  Minimal: Spanish, Italian.</sub></p>
 
 <h3>Medical Employment:</h3>
+
+<h4> <b>CT Doctor,</b> Morriston Hospital – Swansea, UK. 2018 – 2020 </h4>	
+
+<ul>
+	<li>16 months Plastic Surgery and Intensive Care Unit, 4 months each.</li>
+			</ul>
 
 <h4> <b>FY2 Doctor,</b> Broomfield Hospital – Chelmsford, UK. 2017 – 2018 </h4>	
 
